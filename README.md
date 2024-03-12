@@ -4,7 +4,8 @@
 Estudiante de DAM
 
 **Idiomas aprendidos:**
-- Java
+- Java ![java (2)](https://github.com/neo-kan/neo-kan/assets/157000971/409f24ef-8f7b-459c-aa14-77c2491752fb)
+
 - SQl
 - Git
 
