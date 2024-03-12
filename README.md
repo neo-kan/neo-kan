@@ -1,4 +1,4 @@
-![java](https://github.com/neo-kan/neo-kan/assets/157000971/a40a3ff7-49a0-4817-8463-134b27e61692)### Hola mundo 👋
+### Hola mundo 👋
 
 <!--
 **neo-kan/neo-kan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
