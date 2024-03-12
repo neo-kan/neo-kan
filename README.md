@@ -4,7 +4,7 @@
 Estudiante de DAM
 
 **Idiomas aprendidos:**
-- Java <img src="[https://pbs.twimg.com/media/EiAuAS8VoAA1-4T?format=jpg&name=large](https://github.com/neo-kan/neo-kan/assets/157000971/6c8e64bb-9aa1-433d-865a-41ed6c873b88)" alt="JuveR" width="300px">
+- Java <img src="(https://github.com/neo-kan/neo-kan/assets/157000971/6c8e64bb-9aa1-433d-865a-41ed6c873b88)" alt="JuveR" width="300px">
 - SQl
 - Git
 
