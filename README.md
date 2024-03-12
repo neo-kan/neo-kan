@@ -13,7 +13,7 @@ Estudiante de DAM
 - Videos
 <div>
 <p style = 'text-align:center;'>
-src="https://www.youtube.com/embed/tgbNymZ7vqY">
+"https://www.youtube.com/embed/tgbNymZ7vqY">
 </div>
 </p>
 
