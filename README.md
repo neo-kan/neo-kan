@@ -4,7 +4,7 @@
 Estudiante de DAM
 
 **Idiomas aprendidos:**
-- Java <
+- Java
 - SQl
 - Git
 
