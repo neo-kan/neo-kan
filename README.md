@@ -31,7 +31,6 @@ Soy desarrollador de aplicaciones multiplataforma, formado en el ciclo de **DAM 
 - 🛠️ **Otras herramientas:**  
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
-  ![UML](https://img.shields.io/badge/UML-ffffff?style=flat&logoColor=black
 
 ## 📫 Cómo contactarme
 
