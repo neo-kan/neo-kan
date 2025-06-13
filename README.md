@@ -2,7 +2,7 @@
 
 Soy desarrollador de aplicaciones multiplataforma, formado en el ciclo de **DAM (Desarrollo de Aplicaciones Multiplataforma)**. Me gusta crear software útil, bien estructurado y que aporte valor real a los usuarios.
 
-📱 He trabajado en proyectos móviles y de escritorio usando Java, Android, JavaFX y bases de datos como MySQL y SQLite.  
+📱 He trabajado en proyectos móviles y de escritorio usando Java, Android y bases de datos como MySQL, MongoDB, Realtime y Firestore.  
 🧠 Me gusta escribir código limpio, aprender nuevas tecnologías y crecer como desarrollador.  
 🚀 Actualmente busco mi primera oportunidad profesional en el mundo del desarrollo.
 
@@ -25,25 +25,17 @@ Soy desarrollador de aplicaciones multiplataforma, formado en el ciclo de **DAM 
   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 - 🗄️ **Bases de datos:**  
-  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)  
-  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)  
+  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)   
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 - 🛠️ **Otras herramientas:**  
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
-  ![UML](https://img.shields.io/badge/UML-ffffff?style=flat&logoColor=black)
-
-## 📂 Algunos proyectos destacados
-
-- **GymCoach**: App móvil para crear entrenamientos personalizados y asignarlos a tus seguidores.  
-- [Ver más proyectos ➜](https://github.com/neo-kan?tab=repositories)
+  ![UML](https://img.shields.io/badge/UML-ffffff?style=flat&logoColor=black
 
 ## 📫 Cómo contactarme
 
-- 📧 nicolas@example.com  
-- 🔗 [linkedin.com/in/nicolassanchez](https://linkedin.com/in/nicolassanchez)  
-<!-- - 🌐 Portafolio: [miportafolio.dev](https://miportafolio.dev) -->
+- 📧 nikolassl@icloud.com 
 
 ---
 
